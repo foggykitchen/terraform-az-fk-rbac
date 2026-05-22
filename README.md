@@ -71,7 +71,7 @@ terraform-az-fk-rbac/
 
 ```hcl
 module "rbac" {
-  source = "github.com/foggykitchen/terraform-az-fk-rbac"
+  source = "github.com/mlinxfeld/terraform-az-fk-rbac"
 
   scope                = module.storage.storage_account_id
   principal_id         = module.compute.vm_principal_id
@@ -127,11 +127,11 @@ These examples demonstrate the same module pattern reused across different Azure
 
 ## 🧩 Related Modules & Training
 
-- [terraform-az-fk-compute](https://github.com/foggykitchen/terraform-az-fk-compute)
-- [terraform-az-fk-storage](https://github.com/foggykitchen/terraform-az-fk-storage)
+- [terraform-az-fk-compute](https://github.com/mlinxfeld/terraform-az-fk-compute)
+- [terraform-az-fk-storage](https://github.com/mlinxfeld/terraform-az-fk-storage)
 - [terraform-az-fk-vnet](https://github.com/foggykitchen/terraform-az-fk-vnet)
-- [terraform-az-fk-private-endpoint](https://github.com/foggykitchen/terraform-az-fk-private-endpoint)
-- [terraform-az-fk-private-dns](https://github.com/foggykitchen/terraform-az-fk-private-dns)
+- [terraform-az-fk-private-endpoint](https://github.com/mlinxfeld/terraform-az-fk-private-endpoint)
+- [terraform-az-fk-private-dns](https://github.com/mlinxfeld/terraform-az-fk-private-dns)
 
 ---
 
