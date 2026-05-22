@@ -61,11 +61,11 @@ These examples intentionally avoid:
 ## 🧩 Related Resources
 
 - [FoggyKitchen Azure RBAC Module (terraform-az-fk-rbac)](../)
-- [FoggyKitchen Azure Compute Module (terraform-az-fk-compute)](https://github.com/mlinxfeld/terraform-az-fk-compute)
-- [FoggyKitchen Azure Storage Module (terraform-az-fk-storage)](https://github.com/mlinxfeld/terraform-az-fk-storage)
-- [FoggyKitchen Azure VNet Module (terraform-az-fk-vnet)](https://github.com/mlinxfeld/terraform-az-fk-vnet)
-- [FoggyKitchen Azure Private Endpoint Module (terraform-az-fk-private-endpoint)](https://github.com/mlinxfeld/terraform-az-fk-private-endpoint)
-- [FoggyKitchen Azure Private DNS Module (terraform-az-fk-private-dns)](https://github.com/mlinxfeld/terraform-az-fk-private-dns)
+- [FoggyKitchen Azure Compute Module (terraform-az-fk-compute)](https://github.com/foggykitchen/terraform-az-fk-compute)
+- [FoggyKitchen Azure Storage Module (terraform-az-fk-storage)](https://github.com/foggykitchen/terraform-az-fk-storage)
+- [FoggyKitchen Azure VNet Module (terraform-az-fk-vnet)](https://github.com/foggykitchen/terraform-az-fk-vnet)
+- [FoggyKitchen Azure Private Endpoint Module (terraform-az-fk-private-endpoint)](https://github.com/foggykitchen/terraform-az-fk-private-endpoint)
+- [FoggyKitchen Azure Private DNS Module (terraform-az-fk-private-dns)](https://github.com/foggykitchen/terraform-az-fk-private-dns)
 
 ---
 
