@@ -4,6 +4,8 @@ This repository contains a reusable **Terraform / OpenTofu module** and progress
 
 It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses/azure-fundamentals-terraform-course/)** and is designed as a **small, composable authorization layer** that integrates with other Azure modules such as compute, storage, and networking.
 
+Support expectations are documented in [SUPPORT.md](SUPPORT.md).
+
 ---
 
 ## 🎯 Purpose
